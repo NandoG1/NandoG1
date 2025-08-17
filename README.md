@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Fernando Gunawan</h1>
+![Header](./github-header-banner.png)
 <h3 align="center">A Computer Science Student from Indonesian</h3>
+<h1></h1>
+🌱 I’m currently learning Frameworks, AI, Data Science
 
-- 🌱 I’m currently learning **Frameworks, AI, Data Science**
-
-- 💬 Ask me about **Python, Next.js**
+💬 Ask me about **Python, Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
