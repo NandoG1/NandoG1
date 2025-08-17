@@ -6,4 +6,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernando-gunawan-bo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernando-gunawan-bo/" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nando&show_icons=true&locale=en" alt="nando" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NandoG1&show_icons=true&locale=en" alt="nando" /></p>
