@@ -3,8 +3,6 @@
 <h1></h1>
 🌱 I’m currently learning Frameworks, AI, Data Science
 
-💬 Ask me about **Python, Next.js**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fernando-gunawan-bo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-gunawan-bo" height="30" width="40" /></a>
