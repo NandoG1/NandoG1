@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 <h3 align="center">A Computer Science Student from Indonesian</h3>
 <h1></h1>
-🌱 I’m currently learning Frameworks, AI, Data Science
+🌱 I’m currently learning Frameworks and AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
